@@ -1,0 +1,18 @@
+Challenge:
+Description: Welcome to the "Berserker's Brain Teaser"! In the days of old, the Vikings were famed for their fierce berserkers, warriors who fought with wild fury and unyielding strength. To conquer this challenge, you must summon that same indomitable spirit as you face a cryptogram that would daunt even the bravest of souls.
+
+Can you break the code, unlock the hidden message, and emerge victorious as a true warrior of the mind? The path to glory awaits—are you ready to seize it?
+
+Plaintext: JOTRRLA{J_xrlb_BW_sv_foquxwr_uvlr}
+
+———
+Level: Medium
+———
+Type: Cryptography
+———
+Flag Format: INFOSEC{_Your_Message_}
+———
+
+———
+Hint:
+-The key is as long as the word 'INFOSEC'
