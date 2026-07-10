@@ -1,29 +1,66 @@
-pip install cryptography
-pip install pycryptodome
-pip install rsa
-pip install ecdsa
-pip install fastecdsa
-pip install tinyec
-pip install pyjwt
-pip install bcrypt
-pip install argon2-cffi
-pip install passlib
-pip install pyOpenSSL
-pip install base58
-pip install mnemonic
-pip install sympy
-pip install gmpy2
-pip install libnum
-pip install primefac
-pip install pyecm
-pip install symengine 
-pip install pillow
-pip install opencv-python
-pip install stegano
-pip install scikit-image
-pip install imageio
-pip install exifread
-pip install piexif pip install base91
-pip install base58
-pip install base36
-pip install python-magic 
+base64
+binascii
+codecs
+hashlib
+hmac
+secrets
+random
+string
+itertools
+functools
+operator
+math
+decimal
+fractions
+statistics
+collections
+heapq
+bisect
+re
+struct
+pickle
+marshal
+gzip
+bz2
+lzma
+zlib
+zipfile
+tarfile
+io
+os
+sys
+pathlib
+glob
+shutil
+tempfile
+subprocess
+socket
+ssl
+urllib
+http
+json
+csv
+xml
+html
+sqlite3
+time
+datetime
+calendar
+threading
+multiprocessing
+concurrent.futures
+asyncio
+inspect
+dis
+ast
+types
+ctypes
+cProfile
+tracemalloc
+uuid
+logging
+argparse
+configparser
+enum
+typing
+dataclasses
