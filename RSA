@@ -1,0 +1,9 @@
+Challenge Description:
+You have intercepted an RSA-encrypted message but noticed that the private key exponent used is unusually small compared to the modulus. The public key and ciphertext are provided below.
+Your task is to recover the original plaintext message (the flag) using the given parameters.
+———
+Level: Easy
+———
+Type: Cryptography
+———
+Flag Format: INFOSEC{_Flag_}
