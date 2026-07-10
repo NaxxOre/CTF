@@ -1,0 +1,5 @@
+Level🟢: easy
+------
+Type: Stenography(Crypto)
+------
+flag format: INFOSEC{_flag_}
